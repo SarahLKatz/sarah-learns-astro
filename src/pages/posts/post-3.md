@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: "My Third Blog Post"
 pubDate: 2024-12-26
 description: "This is the third post of my new Astro blog."
@@ -8,10 +9,6 @@ image:
   alt: "The Astro logo on a dark background with a pink glow."
 tags: ["astro", "blogging", "learning in public"]
 ---
-
-# My Third Blog Post
-
-Published on: 2024-12-26
 
 The tutorial said to write more blog posts, so here we are!
 
